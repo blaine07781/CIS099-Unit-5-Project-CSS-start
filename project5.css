@@ -1,0 +1,48 @@
+body {
+  background-color: lightblue;
+   }
+  h1, h2, h3 {
+ text-align: center;
+  }
+  #wrapper {
+     width: 80%;
+      margin: auto;
+      background-color:rgb(163, 132, 132);
+      box-shadow: 12px 12px #d1c4c4; 
+      }
+    
+  div {
+      width: 90%;
+      margin: auto;
+    }
+  
+  .itembox {
+   border: 10px 10px rgb(197, 22, 22);
+   border-radius: 8px;
+   box-shadow: 5px 5px rgb(248, 247, 245);
+   background-color: rgb(226, 43, 119);
+   color:rgb(23, 23, 121);
+   padding: 12px 12px;
+      }
+  .favorite{
+    border: 12px 12px rgb(172, 106, 20);
+   border-radius: 8px;
+   box-shadow: 5px 5px rgb(226, 160, 36);
+   background-color: rgb(224, 203, 212);
+   color:rgb(97, 97, 36);
+   padding: 12px 12px;
+  }
+  ul {
+    background-color: rgb(51, 136, 108);
+    list-style-type: circle;
+  }  
+  ol {
+    background-color: rgb(141, 132, 119);
+    list-style-type: georgian;
+  }
+  nav {
+    margin: 12px;
+    background-color: aqua;
+  }
+    
+  
